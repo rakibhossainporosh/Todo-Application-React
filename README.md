@@ -23,11 +23,13 @@ This project demonstrates **state management, conditional rendering, and LocalSt
 
 ## 📸 Screenshots
 ### Main UI
-*(Add a screenshot here once you run the app)*
+
+![App Screenshot](./Todo.png)
+
 
 ---
 
 ## ⚡ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/rakibhossainporosh/Todo-Application-React.git
