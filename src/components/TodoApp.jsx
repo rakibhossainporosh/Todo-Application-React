@@ -33,7 +33,7 @@ export default function TodoApp() {
 
   return (
     <div className="max-w-md mx-auto p-4 bg-white rounded-lg shadow mt-10">
-      <h1 className="text-2xl font-bold mb-4">✅ Todo App</h1>
+      <h1 className="text-2xl font-bold mb-4">Todo Application</h1>
 
       <div className="flex gap-2 mb-4">
         <input
